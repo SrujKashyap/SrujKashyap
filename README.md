@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**SrujKashyap/SrujKashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Electrical Engineer turned Backend Developer — bridging hardware roots
+   with modern AI systems, real-time pipelines, and LLM-powered applications.
 
-Here are some ideas to get you started:
+🚀 Currently building:
+   • AI-integrated SSH terminal (Flask + WebSockets + xterm.js)
+   • Computer vision pipeline (detection & recognition, model training)
+   • RAG systems & AI agents (LLMs + vector DBs)
+   • Workflow automation with n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Stack: Python • Flask • PostgreSQL • REST APIs • OpenCV • paramiko
+🤖 AI/LLM: RAG pipelines • LLM integration • n8n Automation • Agent systems
+📍 Bangalore, India | Open to SWE / Backend / AI roles
+
+⚡ Figuring things out one system at a time — EE brain, software hands.
